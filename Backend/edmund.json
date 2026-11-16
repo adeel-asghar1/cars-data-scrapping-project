@@ -1,0 +1,170 @@
+[
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/a5-zarfamev2k7603034/img-1-600x400.jpg",
+        "description": "2019 Alfa Romeo Giulia",
+        "mileage": "38,726 miles",
+        "price": "$39,667",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/giulia/2019/vin/ZARFAMEV2K7603034/?radius=50",
+        "trim": "Quadrifoglio  Sedan"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/24-zarfaebn6j7577594/img-1-600x400.jpg",
+        "description": "2018 Alfa Romeo Giulia",
+        "mileage": "112,543 miles",
+        "price": "$15,991",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/giulia/2018/vin/ZARFAEBN6J7577594/?radius=50",
+        "trim": "Base  Sedan"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/29-zarfaeenxj7589937/img-1-600x400.jpg",
+        "description": "2018 Alfa Romeo Giulia",
+        "mileage": "17,275 miles",
+        "price": "$26,000",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/giulia/2018/vin/ZARFAEENXJ7589937/?radius=50",
+        "trim": "Ti Lusso  Sedan"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/alfa-romeo/stelvio/2018/izmo/2018_alfa-romeo_stelvio_4dr-suv_ti_tds_izmo_1_600x400.jpg",
+        "description": "2018 Alfa Romeo Stelvio",
+        "mileage": "63,511 miles",
+        "price": "$19,995",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2018/vin/ZASFAKBN7J7B77351/?radius=50",
+        "trim": "Ti  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/72-zasfakpnxj7b80981/img-1-600x400.jpg",
+        "description": "2018 Alfa Romeo Stelvio",
+        "mileage": "52,167 miles",
+        "price": "$19,920",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2018/vin/ZASFAKPNXJ7B80981/?radius=50",
+        "trim": "Sport  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/79-zaspakbn8m7d18551/img-1-600x400.jpg",
+        "description": "2021 Alfa Romeo Stelvio",
+        "mileage": "28,403 miles",
+        "price": "$32,000",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2021/vin/ZASPAKBN8M7D18551/?radius=50",
+        "trim": "Ti Sport  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/5f-zaspakan9m7c99915/img-1-600x400.jpg",
+        "description": "2021 Alfa Romeo Stelvio",
+        "mileage": "2,698 miles",
+        "price": "$31,995",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2021/vin/ZASPAKAN9M7C99915/?radius=50",
+        "trim": "Sprint  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/alfa-romeo/stelvio/2021/izmo/2021_alfa-romeo_stelvio_4dr-suv_ti-sport_tds_izmo_6_600x400.jpg",
+        "description": "2021 Alfa Romeo Stelvio",
+        "mileage": "31,823 miles",
+        "price": "$31,000",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2021/vin/ZASPAKBN4M7D09233/?radius=50",
+        "trim": "Ti Sport  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/04-zaspakbn5m7d08866/img-1-600x400.jpg",
+        "description": "2021 Alfa Romeo Stelvio",
+        "mileage": "27,901 miles",
+        "price": "$29,995",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2021/vin/ZASPAKBN5M7D08866/?radius=50",
+        "trim": "Ti  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/a8-zarfaedn1j7589357/img-1-600x400.jpg",
+        "description": "2018 Alfa Romeo Giulia",
+        "mileage": "54,946 miles",
+        "price": "$24,000",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/giulia/2018/vin/ZARFAEDN1J7589357/?radius=50",
+        "trim": "Base  Sedan"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/f8-zasfakan8j7b76002/img-1-600x400.jpg",
+        "description": "2018 Alfa Romeo Stelvio",
+        "mileage": "75,505 miles",
+        "price": "$21,000",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2018/vin/ZASFAKAN8J7B76002/?radius=50",
+        "trim": "Base  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/82-zaspakbn9m7d09678/img-1-600x400.jpg",
+        "description": "2021 Alfa Romeo Stelvio",
+        "mileage": "31,508 miles",
+        "price": "$32,000",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2021/vin/ZASPAKBN9M7D09678/?radius=50",
+        "trim": "Ti Sport  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/alfa-romeo/stelvio/2021/izmo/2021_alfa-romeo_stelvio_4dr-suv_ti_tds_izmo_12_600x400.jpg",
+        "description": "2021 Alfa Romeo Stelvio",
+        "mileage": "32,230 miles",
+        "price": "$31,000",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2021/vin/ZASPAKBN3M7D08087/?radius=50",
+        "trim": "Ti  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/3c-zaspakev0k7c45006/img-1-600x400.jpg",
+        "description": "2019 Alfa Romeo Stelvio",
+        "mileage": "37,027 miles",
+        "price": "$44,995",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2019/vin/ZASPAKEV0K7C45006/?radius=50",
+        "trim": "Quadrifoglio  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/6a-zarfaman3m7641185/img-1-600x400.jpg",
+        "description": "2021 Alfa Romeo Giulia",
+        "mileage": "39,910 miles",
+        "price": "$22,498",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/giulia/2021/vin/ZARFAMAN3M7641185/?radius=50",
+        "trim": "Sprint  Sedan"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/c8-zaspakbn4p7d58484/img-1-600x400.jpg",
+        "description": "2023 Alfa Romeo Stelvio",
+        "mileage": "6,658 miles",
+        "price": "$42,995",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2023/vin/ZASPAKBN4P7D58484/?radius=50",
+        "trim": "Ti  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/3a-zarfaman2n7655208/img-1-600x400.jpg",
+        "description": "2022 Alfa Romeo Giulia",
+        "mileage": "19,091 miles",
+        "price": "$24,698",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/giulia/2022/vin/ZARFAMAN2N7655208/?radius=50",
+        "trim": "Sprint  Sedan"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/95-zaspakan4l7c92692/img-1-600x400.jpg",
+        "description": "2020 Alfa Romeo Stelvio",
+        "mileage": "13,722 miles",
+        "price": "$27,333",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2020/vin/ZASPAKAN4L7C92692/?radius=50",
+        "trim": "Base  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/cf-zaspakbn3m7d12821/img-1-600x400.jpg",
+        "description": "2021 Alfa Romeo Stelvio",
+        "mileage": "28,759 miles",
+        "price": "$27,593",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2021/vin/ZASPAKBN3M7D12821/?radius=50",
+        "trim": "Ti  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/5f-zaspakbn4p7d51521/img-1-600x400.jpg",
+        "description": "2023 Alfa Romeo Stelvio",
+        "mileage": "8,446 miles",
+        "price": "$37,590",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2023/vin/ZASPAKBN4P7D51521/?radius=50",
+        "trim": "Ti  4dr SUV"
+    },
+    {
+        "imageUrl": "https://www.edmunds.com/assets/m/for-sale/ed-zaspakan0n7d31104/img-1-600x400.jpg",
+        "description": "2022 Alfa Romeo Stelvio",
+        "mileage": "46,880 miles",
+        "price": "$23,999",
+        "mainUrl": "https://www.edmunds.com/alfa-romeo/stelvio/2022/vin/ZASPAKAN0N7D31104/?radius=50",
+        "trim": "Sprint  4dr SUV"
+    }
+]
